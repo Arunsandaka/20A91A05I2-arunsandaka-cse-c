@@ -1,0 +1,10 @@
+a=int(input(enter a value))
+if a>10
+ print(a is >10)
+ print(a is bigger)
+
+
+Output:
+enter a value4
+a is >10
+a is bigger
