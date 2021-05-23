@@ -1,1 +1,17 @@
 
+a=int(input(enter a value))
+b=int(input(enter b value))
+c=int(input(enter c value))
+sum=a+b+c
+print(sum)
+avg=(a+b+c)/3
+print(avg)
+
+
+
+Output:
+enter a value1
+enter b value2
+enter c value3
+sum=6
+avg=2
